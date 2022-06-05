@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "ActivityLogger": {
+      "commandName": "Project",
+      "commandLineArgs": "add \"C:\\Users\\Daddy\\source\\repos\\activity-logger\\src\\ActivityLogger\\App_Data\\activity-log.txt\" \"nueva actividad\""
+    }
+  }
+}
