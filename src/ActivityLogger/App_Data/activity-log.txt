@@ -1,6 +1,0 @@
-2022-06-05 09:41|2022-06-05 10:08|nueva actividad|
-2022-06-05 10:08|2022-06-05 10:09|nueva actividad|
-2022-06-05 10:09|2022-06-05 10:20|nueva actividad|
-2022-06-05 10:20|2022-06-05 10:20|Esto es una prueba|
-2022-06-05 10:20|2022-06-05 10:20|Esto es otra prueba|Otra prueba adicional!
-2022-06-05 10:20||Otra prueba|una mas como para quedar tranquilo
